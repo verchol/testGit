@@ -3,6 +3,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 commit 2
 >>>>>>> f1
@@ -38,16 +39,16 @@ updated from Git
  
 >>>>>>> f1
 =======
-testOleg
-updated from Git
-oleg from a1
-rebase
-oleg verhchol
+
+>>>>>>> f1
+=======
+ ol
 oleg from master
 commit 1
 commit 2
 >>>>>>> f1
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 <<<<<<< HEAD
@@ -81,4 +82,17 @@ commit 2
  
 >>>>>>> f1
 =======
+=======
+=======
+<<<<<<< HEAD
+updated from Git
+
+>>>>>>> ce114308692185bb3dd52c506089c8dde0bed0a6
+=======
+
+commit 1
+commit 2
+>>>>>>> f1
+>>>>>>> f1
+>>>>>>> f1
 >>>>>>> f1
