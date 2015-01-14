@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 commit 2
 >>>>>>> f1
@@ -34,8 +35,19 @@ updated from Git
  commit 1
 >>>>>>> f1
 =======
-
+ 
 >>>>>>> f1
+=======
+testOleg
+updated from Git
+oleg from a1
+rebase
+oleg verhchol
+oleg from master
+commit 1
+commit 2
+>>>>>>> f1
+<<<<<<< HEAD
 =======
 
 <<<<<<< HEAD
@@ -67,4 +79,6 @@ commit 2
 >>>>>>> f1
 =======
  
+>>>>>>> f1
+=======
 >>>>>>> f1
