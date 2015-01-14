@@ -1,7 +1,5 @@
 testOleg
-updated from Git
-oleg from a1
-rebase
-oleg verhchol
-oleg from master
-commit-master 1
+ 
+commit 1
+commit 2
+>>>>>>> f1
