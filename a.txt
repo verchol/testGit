@@ -1,5 +1,19 @@
 testOleg
+<<<<<<< HEAD
+
  
 commit 1
 commit 2
+=======
+commit-master 1
+>>>>>>> ce114308692185bb3dd52c506089c8dde0bed0a6
+=======
+
+<<<<<<< HEAD
+commit-master 1
+=======
+commit 1
+commit 2
+>>>>>>> f1
+>>>>>>> f1
 >>>>>>> f1
