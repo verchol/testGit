@@ -1,57 +1,27 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 
 commit 2
 >>>>>>> f1
->>>>>>> f1
+  f1
 >>>>>>> f1
 >>>>>>> f1
 =======
 testOleg
 <<<<<<< HEAD
 
-
-updated from Git
-oleg from a1
-rebase
-oleg verhchol
-oleg from master
-commit 1
-commit 2
->>>>>>> f1
-=======
-updated from Git
-
->>>>>>> ce114308692185bb3dd52c506089c8dde0bed0a6
-=======
+ 
 <<<<<<< HEAD
 =======
 >>>>>>> rebased
-=======
->>>>>>> f1
  commit 1
 >>>>>>> f1
 =======
- 
->>>>>>> f1
-=======
 
 >>>>>>> f1
 =======
- ol
-oleg from master
-commit 1
-commit 2
->>>>>>> f1
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 
-<<<<<<< HEAD
 >>>>>>> rebased
 commit 2
 >>>>>>> f1
@@ -68,7 +38,7 @@ commit 2
 >>>>>>> f1
 >>>>>>> f1
 =======
- 
+
 >>>>>>> rebased
 =======
 
@@ -76,23 +46,5 @@ commit 2
 >>>>>>> f1
 <<<<<<< HEAD
 =======
->>>>>>> f1
->>>>>>> f1
-=======
- 
->>>>>>> f1
-=======
-=======
-=======
-<<<<<<< HEAD
-updated from Git
-
->>>>>>> ce114308692185bb3dd52c506089c8dde0bed0a6
-=======
-
-commit 1
-commit 2
->>>>>>> f1
->>>>>>> f1
 >>>>>>> f1
 >>>>>>> f1
