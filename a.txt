@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 commit 2
 >>>>>>> f1
@@ -28,6 +29,8 @@ updated from Git
 <<<<<<< HEAD
 =======
 >>>>>>> rebased
+=======
+>>>>>>> f1
  commit 1
 >>>>>>> f1
 =======
@@ -35,6 +38,7 @@ updated from Git
 >>>>>>> f1
 =======
 
+<<<<<<< HEAD
 >>>>>>> rebased
 commit 2
 >>>>>>> f1
@@ -60,4 +64,7 @@ commit 2
 <<<<<<< HEAD
 =======
 >>>>>>> f1
+>>>>>>> f1
+=======
+ 
 >>>>>>> f1
