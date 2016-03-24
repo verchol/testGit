@@ -4,5 +4,9 @@ oleg from a1
 rebase
 oleg verhchol
 oleg from master
+<<<<<<< HEAD
 commit 1
 commit 2
+=======
+commit-master 1
+>>>>>>> ce114308692185bb3dd52c506089c8dde0bed0a6
